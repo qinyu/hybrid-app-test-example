@@ -1,0 +1,7 @@
+.irb-history
+*.apk
+*.png
+/temp
+/test_servers
+.ruby-gemset
+.ruby-version
